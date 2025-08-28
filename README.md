@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me 👋
 
-<!--
-**Apooxi/Apooxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎓 I'm a **Computer Engineering student** and an aspiring **Web Developer**. 
+- 🌱 I’m currently learning **JavaScript, HTML, CSS** and exploring the fundamentals of front-end development.
+- ### What I'm working on:
+- Improving my **JavaScript** skills  
+- Creating projects to practice web development  
+- Exploring version control and collaboration with Git & GitHub
+  
+- 📫 How to reach me: abdllahbzn0244@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
