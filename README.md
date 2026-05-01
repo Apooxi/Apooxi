@@ -44,13 +44,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdllahbzn0244@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-bozan)
 
-## 📊 GitHub Stats
-
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apooxi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apooxi&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Apooxi&theme=radical)
-
 ---
 ⭐️ **Open to collaboration and learning opportunities!**
